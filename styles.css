@@ -25,7 +25,7 @@ body {
 }
 
 .page-title {
-  color: blue;
+  color: palevioletred;
   font-family: serif;
   font-weight: normal;
   text-align: center;
@@ -39,7 +39,7 @@ body {
 }
 
 .game-info {
-  color: lightskyblue;
+  color: pink;
   font-size: 4em;
 }
 
@@ -86,7 +86,7 @@ body {
 }
 
 .card-back {
-  background-color:lightblue;
+  background-color:lightpink;
   transform: rotateY(0); 
 }
 
@@ -146,7 +146,7 @@ body {
 }
 
 .card-front {
-  background-color: lightblue;
+  background-color: lightpink;
   transform: rotateY(180deg);
 }
 
